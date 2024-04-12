@@ -13,6 +13,7 @@ This project aims to perform topic modeling by analyzing the titles of scientifi
 ## Dataset
 
 In this project, a dataset containing titles of scientific papers is used. The dataset should be provided in a CSV file named "data.csv".
+Dataset link : https://www.kaggle.com/datasets/benhamner/nips-papers
 
 ## Steps
 
